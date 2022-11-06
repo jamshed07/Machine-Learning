@@ -1,2 +1,2 @@
 # Machine-Learning
-Basic technique to extract data from web page
+Basic technique of machine learning and tools
